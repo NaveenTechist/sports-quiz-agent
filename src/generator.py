@@ -49,11 +49,9 @@ def compile_quiz_data(sport, difficulty):
         "Explanation: [Detailed background reasoning quoting from the context details]\n"
         "---"
     )
-
     # Make API call
     response = client.models.generate_content(
         model="gemini-3.1-flash-lite",
         contents=f"{system_instruction}\n\n{user_prompt}"
     )
-
     return response.text, unified_context
