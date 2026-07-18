@@ -184,6 +184,10 @@ GitHub: https://github.com/NaveenTechist
 
 LinkedIn: https://linkedin.com/in/your-profile
 
+Published Link: https://naveentechist-sports-quiz-agent-app-o3mfmy.streamlit.app/
+
+Video: https://drive.google.com/file/d/1wNzZYhP9ZcegR3NpjQ9j0C92Xn2Ev7DD/view?usp=sharing
+
 ---
 
 ⭐ If you found this project useful, consider giving it a star.
